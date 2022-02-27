@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shomlings
-- 👀 I’m interested in programming and electonics
+- 👀 I’m interested in programming and electronics
 
 <!---
 Shomlings/Shomlings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
