@@ -21,6 +21,6 @@
 
 <p>
 <img src="https://github-stats-shomlings.vercel.app/api/top-langs?username=shomlings&show_icons=true&locale=en&layout=donut" alt="shomlings" />
-<img src="https:/github-stats-shomlings.vercel.app/api?username=shomlings&show_icons=true&locale=en" alt="shomlings" />
-<img src="https://github-stats-shomlings.vercel.app/?user=shomlings&" alt="shomlings" />
+<img src="https://github-stats-shomlings.vercel.app/api?username=shomlings&show_icons=true&locale=en" alt="shomlings" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shomlings&" alt="shomlings" />
 <p>
